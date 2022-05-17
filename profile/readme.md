@@ -9,7 +9,7 @@ This org runs like @nix-community
 ### Name
 Username-RespName
 ### Description
-discription [Maintainer=Username]
+description [Maintainer=Username]
 
 
 
