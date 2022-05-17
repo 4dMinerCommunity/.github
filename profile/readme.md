@@ -8,7 +8,7 @@ This org runs like @nix-community
 ## responsory scheme
 ### Name
 Username-RespName
-### Discription
+### Description
 discription [Maintainer=Username]
 
 
