@@ -12,4 +12,6 @@ Username-RespName
 description [Maintainer=Username]
 
 
+## How to get a repo added. 
 
+Look in the talk repo descustions, look for ask to join or just create an issue (YOU MUST HAVE CREATED IT)
